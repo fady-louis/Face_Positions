@@ -2,6 +2,6 @@
 get Pitch , Yaw , Roll Angles as vectors in your video
 
 
-Supervised by:- eng.Mohamed Hussien
-Made by :- eng.Fady Maged
-Special thanks to :- eng.Marwan Abdelsalam
+Supervised by:- eng.Mohamed Hussien<br>
+Made by :- eng.Fady Maged<br>
+Special thanks to :- eng.Marwan Abdelsalam<br>
